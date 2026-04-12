@@ -16,9 +16,8 @@ A professional Python-based AI agent that transforms raw lead data into concise,
 - [Usage](#-usage)
 - [Testing](#-testing)
 - [Future Improvements](#-future-improvements)
-- [How to Contribute](#-how-to-contribute)
 - [License](#-license)
-- [Contact](#-contact)
+
 
 ---
 
@@ -82,6 +81,10 @@ When processing is complete, the agent generates a formatted report in your cons
                                            END OF REPORT                                            
 ====================================================================================================
 ```
+
+## 🎬 Demo Video
+
+[Watch Demo](https://github.com/shre-yes/Lead-Summerizer-Agent/releases/download/v.1.0/Assignment.1.mp4)
 
 ---
 
